@@ -1,1 +1,2 @@
-# Project-2
+# Operationalizing Machine Learning - Pipeline Automation
+In this project we are deploying two machine learning models.One using Azure UI and second using Jupyter notebook in SDK. This project uses Bank Marketing Dataset. The link for the dataset is https://automlsamplenotebookdata.blob.core.windows.net/automl-sample-notebook-data/bankmarketing_train.csv .By both the methods I tried to get the best model required.
