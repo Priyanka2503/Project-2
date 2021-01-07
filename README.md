@@ -42,4 +42,31 @@ Then I created Swagger documentation to help interact with the model through the
 Finally I consumed the endpoint of the deployed model.
 ![Screenshot (382)](https://user-images.githubusercontent.com/75804779/103804718-8c97fa80-5078-11eb-9385-1cf8be9e2b54.png)
 
+Then I benchmarked the deployed model.
+![Screenshot (409)](https://user-images.githubusercontent.com/75804779/103898347-cf121380-511a-11eb-8dc8-4d7ba0996812.png)
+
 Now, I did the project using python SDK.I created a pipeline using jupyter notebook.
+![Screenshot (401)](https://user-images.githubusercontent.com/75804779/103894727-58bee280-5115-11eb-82eb-24033660165a.png)
+
+![Screenshot (400)](https://user-images.githubusercontent.com/75804779/103894792-6d9b7600-5115-11eb-8a94-3f1071b9ab3c.png)
+
+![Screenshot (402)](https://user-images.githubusercontent.com/75804779/103895637-b6076380-5116-11eb-8ad1-bf82f68d61ac.png)
+
+The pipeline can be seen here.
+![Screenshot (403)](https://user-images.githubusercontent.com/75804779/103896379-e4d20980-5117-11eb-8c69-b7146b9922be.png)
+
+After that I created the REST endpoints.
+![Screenshot (404)](https://user-images.githubusercontent.com/75804779/103896657-50b47200-5118-11eb-8a4f-d1d063daef8a.png)
+
+Then I enabled RunDetails widgets.
+![Screenshot (407)](https://user-images.githubusercontent.com/75804779/103897465-a2113100-5119-11eb-8f30-e6c939af92aa.png)
+
+![Screenshot (406)](https://user-images.githubusercontent.com/75804779/103897325-5bbbd200-5119-11eb-925b-23ab4ce06220.png)
+
+## Screen Recording
+Link : https://drive.google.com/file/d/11XSMg5GIUL7qW5fo0NnqSFbhWOF3HwXh/view?usp=sharing
+
+## Future Improvements
+
+1. We can deploy the model using Azure Kubernetes Service(AKS)
+2. We can extend the training time
