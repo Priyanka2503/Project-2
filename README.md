@@ -13,7 +13,7 @@ First I explored the dataset.
 Then I created and the dataset from local files.
 ![Screenshot (361)](https://user-images.githubusercontent.com/75804779/103796292-075b1880-506d-11eb-8115-9fe4e8357455.png)
 
-![Screenshot (412)](https://user-images.githubusercontent.com/75804779/103919799-7b152800-5136-11eb-8b61-41d6a90bc9a0.png)
+![Screenshot (413)](https://user-images.githubusercontent.com/75804779/103922473-ce3caa00-5139-11eb-9e92-4327ecaa3854.png)
 
 After that I trained the AutoML model.In this AutoML trained model using several models and found their respective accuracies.Here, I had run the experiment using Classification Technique.
 ![Screenshot (366)](https://user-images.githubusercontent.com/75804779/103799638-5c992900-5071-11eb-8fca-d1b718685587.png)
